@@ -72,12 +72,13 @@ counter = 0;
 
 ------------------------------------------------------------------
 
-11- R:
+11- R: O compilador exibirá uma mensagem de erro de sintaxe quando tentar compilá-lo.
 
+-----------------------------------------------------------------
 
+12- R: Java é uma linguagem livre, ou seja não importa onde inserimos as instruções.
 
-
-
+-----------------------------------------------------------------
 
 
 */
